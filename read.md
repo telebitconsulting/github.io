@@ -1,1 +1,1 @@
-[https://telebitconsulting.github.io]
+https://telebitconsulting.github.io
